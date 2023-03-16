@@ -13,6 +13,7 @@
 </template>
 
 <script>
+
 import Parametros from './components/Parametros'
 import Loja from './components/Loja'
 import Carrinho from './components/Carrinho'
@@ -22,6 +23,7 @@ export default {
 	name: 'app',
 	components: { Parametros, Loja, Carrinho, Resumo }
 }
+
 </script>
 
 <style>
